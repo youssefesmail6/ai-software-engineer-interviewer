@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+streamlit
+python-dotenv
+openai
+google-generativeai
+sentence-transformers
+requests
